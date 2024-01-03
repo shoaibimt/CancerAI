@@ -1,6 +1,6 @@
 ## CancerAI
 
-**Prediction of small molecules as potent inhibitors of various cancer targets using ML/DL**
+**Prediction of small molecules as potent inhibitors of various cancer targets using Artificial Intelligence (AI)**
 
 **Description**
 
