@@ -13,7 +13,7 @@ It is a framework centered around Python, specializing in machine learning and d
   - [Pip](#pip)
   - [Manually](#manually)
 - [Getting Started](#getting-started)
-- [Data Collection from ChEMBL](#Data-collection-from-ChEMBL)
+  - [Data Collection from ChEMBL](#Data-collection-from-ChEMBL)
   - [Load dataset from csv](#load-dataset-from-csv)
   - [Load dataset from sdf](#load-dataset-from-sdf)
   - [Exploratory data analysis (EDA)](#Exploratory-data-analysis-(EDA))
