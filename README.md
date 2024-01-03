@@ -27,7 +27,7 @@ It is a framework centered around Python, specializing in machine learning and d
   - [Pipelines](#pipelines)
   - [Pipeline Optimization](#pipeline-optimization)
 - [About Us](#about-us)
-- [Citing DeepMol](#citing-deepmol)
+- [Citing CancerAI](#citing-CancerAI)
 - [Related Publications](#related-publications)
 - [License](#license)
 
