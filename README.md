@@ -12,4 +12,21 @@ It is a framework centered around Python, specializing in machine learning and d
 - [Installation](#installation)
   - [Pip](#pip)
   - [Manually](#manually)
+ 
+### Requirements
+
+Description of requirements...
+
+### Installation
+
+Instructions for installation...
+
+#### Pip
+
+Instructions for installation using pip...
+
+#### Manually
+
+Instructions for manual installation...
+
 
