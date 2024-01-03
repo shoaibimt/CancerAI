@@ -53,6 +53,10 @@ Instructions for manual installation...
 
 Introduction or overview of getting started section...
 
+#### Data Collection from ChEMBL
+
+The ChEMBL Database compiles curated bioactivity information on over 2 million compounds sourced from in excess of 88,000 documents and 1.6 million assays. This comprehensive dataset encompasses details across 15,000 targets, 2000 cells, and 45,000 indications. The data provided is current as of January 02, 2024, under ChEMBL version 33.
+
 #### Load dataset from csv
 
 Instructions or code for loading dataset from CSV...
