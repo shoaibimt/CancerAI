@@ -36,13 +36,14 @@ It is a framework centered around Python, specializing in machine learning and d
 ### Requirements
 To run this project, one need to have the following Python libraries installed:
 
-scikit-learn
-numpy
-pandas
-matplotlib
-seaborn
-PaDELpy
-rdkit
+**scikit-learn**
+**numpy**
+**pandas**
+**matplotlib**
+**seaborn**
+**PaDELpy**
+**rdkit**
+Please use the requirements.txt file to upload all the necessary libraries.
 
 ### Installation
 
